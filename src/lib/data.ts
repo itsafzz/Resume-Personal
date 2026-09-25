@@ -73,10 +73,10 @@ export interface ExperienceItem {
 
 export const experience: ExperienceItem[] = [
   {
-    period: "2022 — Present",
-    role: "SEO & Digital Marketing Specialist",
-    company: "Independent Consultant",
-    location: "Remote · India",
+    period: "2024 — Present",
+    role: "SEO Analyst",
+    company: "Feathersoft Info Solutions",
+    location: "Onsite · India",
     overview:
       "Leading organic search work end-to-end for small and mid-sized businesses — from technical foundations and research to content programs and measurement.",
     responsibilities: [
