@@ -91,7 +91,7 @@ export default function About() {
 
             <Reveal delay={120}>
               <p className="mt-10 font-display text-xl italic text-muted">
-                — quietly obsessive about search engines<span className="text-accent">since 2019.</span>
+                — quietly  obsessive  about search  engines <span className="text-accent">since 2019.</span>
               </p>
               <p className="mt-2 font-mono text-[11px] uppercase tracking-[0.18em] text-faint">{site.name}</p>
             </Reveal>
